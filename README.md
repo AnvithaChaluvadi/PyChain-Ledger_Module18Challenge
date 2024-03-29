@@ -2,7 +2,7 @@
 ##### Anvitha Chaluvadi
 
 <p align="center">
-<img src = Images/application-image.gif width =40% height 30%=/>
+<img src = Images/blockchain.gif width =40% height 30%=/>
 </p>
 
 ### Background
