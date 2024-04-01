@@ -24,10 +24,10 @@ You’ll make the following updates to the provided Python file for this assignm
 ### Testing the PyChain Ledger by Storing Records
 
 <p align="center">
-<img src = Images/validate_1.png width =50% height 30%=/>
+<img src = Images/validate_1.png width =100% height 30%=/>
 </p>
 <p align="center">
-<img src = Images/validate_2.png width =50% height 30%=/>
+<img src = Images/validate_2.png width =100% height 30%=/>
 </p>
 
 <center>Blockchain is Valid<center>
