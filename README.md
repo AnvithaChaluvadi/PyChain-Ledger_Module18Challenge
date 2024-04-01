@@ -29,7 +29,10 @@ You’ll make the following updates to the provided Python file for this assignm
 <p align="center">
 <img src = Images/validate_2.png width =100% height 30%=/>
 </p>
+<p align="center">
+<img src = Images/validate_3.png width =100% height 30%=/>
+</p>
 
-<center>Blockchain is Valid<center>
+Blockchain is Valid
 
 
