@@ -21,4 +21,15 @@ You’ll make the following updates to the provided Python file for this assignm
 
 4. Test the PyChain Ledger by Storing Records.
 
+### Testing the PyChain Ledger by Storing Records
+
+<p align="center">
+<img src = Images/validate_1.png width =50% height 30%=/>
+</p>
+<p align="center">
+<img src = Images/validate_2.png width =50% height 30%=/>
+</p>
+
+<center>Blockchain is Valid<center>
+
 
